@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC500270-B2F6-42D4-A06D-60970D4AFD08}|ReportService\\ReportService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\reportservice\\services\\reportbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC500270-B2F6-42D4-A06D-60970D4AFD08}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\services\\reportbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC500270-B2F6-42D4-A06D-60970D4AFD08}|ReportService\\ReportService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\reportservice\\services\\inmemoryreportqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC500270-B2F6-42D4-A06D-60970D4AFD08}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\services\\inmemoryreportqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC500270-B2F6-42D4-A06D-60970D4AFD08}|ReportService\\ReportService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\reportservice\\migrations\\20250413011339_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC500270-B2F6-42D4-A06D-60970D4AFD08}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\migrations\\20250413011339_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC500270-B2F6-42D4-A06D-60970D4AFD08}|ReportService\\ReportService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\reportservice\\data\\reportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC500270-B2F6-42D4-A06D-60970D4AFD08}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\data\\reportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC500270-B2F6-42D4-A06D-60970D4AFD08}|ReportService\\ReportService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\reportservice\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC500270-B2F6-42D4-A06D-60970D4AFD08}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC500270-B2F6-42D4-A06D-60970D4AFD08}|ReportService\\ReportService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\reportservice\\controllers\\reportdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC500270-B2F6-42D4-A06D-60970D4AFD08}|ReportService\\ReportService.csproj|solutionrelative:reportservice\\controllers\\reportdatacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\contactservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\contactservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\contactservice\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\services\\personservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\contactservice\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\services\\ipersonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\contactservice\\migrations\\20250412003513_addcontactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\migrations\\20250412003513_addcontactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\contactservice\\migrations\\20250412000936_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\migrations\\20250412000936_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\contactservice\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\contactservice\\entities\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\entities\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\contactservice\\dtos\\person\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\dtos\\person\\personresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\contactservice\\dtos\\person\\createpersonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\dtos\\person\\createpersonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|c:\\users\\esra erg\u00FCn\\source\\repos\\phonebookapp\\contactservice\\data\\phonebookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A6D06A4-B05A-4B15-AD91-79FFE2C463E5}|ContactService\\ContactService.csproj|solutionrelative:contactservice\\data\\phonebookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ReportService\\Services\\ReportBackgroundService.cs",
+              "RelativeDocumentMoniker": "ReportService\\Services\\ReportBackgroundService.cs",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ReportService\\Services\\ReportBackgroundService.cs",
+              "RelativeToolTip": "ReportService\\Services\\ReportBackgroundService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:02:27.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InMemoryReportQueue.cs",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ReportService\\Services\\InMemoryReportQueue.cs",
+              "RelativeDocumentMoniker": "ReportService\\Services\\InMemoryReportQueue.cs",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ReportService\\Services\\InMemoryReportQueue.cs",
+              "RelativeToolTip": "ReportService\\Services\\InMemoryReportQueue.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:02:24.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250413011339_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ReportService\\Migrations\\20250413011339_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ReportService\\Migrations\\20250413011339_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ReportService\\Migrations\\20250413011339_InitialCreate.cs",
+              "RelativeToolTip": "ReportService\\Migrations\\20250413011339_InitialCreate.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:02:21.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ReportService\\Data\\ReportDbContext.cs",
+              "RelativeDocumentMoniker": "ReportService\\Data\\ReportDbContext.cs",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ReportService\\Data\\ReportDbContext.cs",
+              "RelativeToolTip": "ReportService\\Data\\ReportDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:02:17.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ReportService\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "ReportService\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ReportService\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "ReportService\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:02:13.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReportDataController.cs",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ReportService\\Controllers\\ReportDataController.cs",
+              "RelativeDocumentMoniker": "ReportService\\Controllers\\ReportDataController.cs",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ReportService\\Controllers\\ReportDataController.cs",
+              "RelativeToolTip": "ReportService\\Controllers\\ReportDataController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:02:10.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\Program.cs",
+              "RelativeDocumentMoniker": "ContactService\\Program.cs",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\Program.cs",
+              "RelativeToolTip": "ContactService\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:02:04.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\appsettings.json",
+              "RelativeToolTip": "ContactService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-15T08:02:02.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonService.cs",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\Services\\PersonService.cs",
+              "RelativeDocumentMoniker": "ContactService\\Services\\PersonService.cs",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\Services\\PersonService.cs",
+              "RelativeToolTip": "ContactService\\Services\\PersonService.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:01:58.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPersonService.cs",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\Services\\IPersonService.cs",
+              "RelativeDocumentMoniker": "ContactService\\Services\\IPersonService.cs",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\Services\\IPersonService.cs",
+              "RelativeToolTip": "ContactService\\Services\\IPersonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:01:56.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250412003513_AddContactInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\Migrations\\20250412003513_AddContactInfo.cs",
+              "RelativeDocumentMoniker": "ContactService\\Migrations\\20250412003513_AddContactInfo.cs",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\Migrations\\20250412003513_AddContactInfo.cs",
+              "RelativeToolTip": "ContactService\\Migrations\\20250412003513_AddContactInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:01:48.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250412000936_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\Migrations\\20250412000936_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ContactService\\Migrations\\20250412000936_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\Migrations\\20250412000936_InitialCreate.cs",
+              "RelativeToolTip": "ContactService\\Migrations\\20250412000936_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:01:43.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "ContactService\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\Entities\\Person.cs",
+              "RelativeToolTip": "ContactService\\Entities\\Person.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:00:51.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ContactInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\Entities\\ContactInfo.cs",
+              "RelativeDocumentMoniker": "ContactService\\Entities\\ContactInfo.cs",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\Entities\\ContactInfo.cs",
+              "RelativeToolTip": "ContactService\\Entities\\ContactInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:01:36.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PersonResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\DTOs\\Person\\PersonResponse.cs",
+              "RelativeDocumentMoniker": "ContactService\\DTOs\\Person\\PersonResponse.cs",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\DTOs\\Person\\PersonResponse.cs",
+              "RelativeToolTip": "ContactService\\DTOs\\Person\\PersonResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:01:34.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreatePersonRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\DTOs\\Person\\CreatePersonRequest.cs",
+              "RelativeDocumentMoniker": "ContactService\\DTOs\\Person\\CreatePersonRequest.cs",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\DTOs\\Person\\CreatePersonRequest.cs",
+              "RelativeToolTip": "ContactService\\DTOs\\Person\\CreatePersonRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:01:32.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PhoneBookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\Data\\PhoneBookDbContext.cs",
+              "RelativeDocumentMoniker": "ContactService\\Data\\PhoneBookDbContext.cs",
+              "ToolTip": "C:\\Users\\Esra Erg\u00FCn\\source\\repos\\PhoneBookApp\\ContactService\\Data\\PhoneBookDbContext.cs",
+              "RelativeToolTip": "ContactService\\Data\\PhoneBookDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T08:01:29.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

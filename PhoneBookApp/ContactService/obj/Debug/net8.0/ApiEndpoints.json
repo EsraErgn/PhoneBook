@@ -1,0 +1,124 @@
+[
+  {
+    "ContainingType": "ContactService.Controllers.ContactInfosController",
+    "Method": "AddContactInfo",
+    "RelativePath": "api/ContactInfos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "info",
+        "Type": "ContactService.Entities.ContactInfo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContactService.Controllers.ContactInfosController",
+    "Method": "DeleteContactInfo",
+    "RelativePath": "api/ContactInfos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContactService.Controllers.ContactInfosController",
+    "Method": "GetContactInfosByPerson",
+    "RelativePath": "api/ContactInfos/person/{personId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "personId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContactService.Controllers.PersonsController",
+    "Method": "GetAll",
+    "RelativePath": "api/Persons",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContactService.Controllers.PersonsController",
+    "Method": "Create",
+    "RelativePath": "api/Persons",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ContactService.DTOs.Person.CreatePersonRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContactService.Controllers.PersonsController",
+    "Method": "GetById",
+    "RelativePath": "api/Persons/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContactService.Controllers.PersonsController",
+    "Method": "Delete",
+    "RelativePath": "api/Persons/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ContactService.Controllers.PersonsController",
+    "Method": "GetPersonDetails",
+    "RelativePath": "api/Persons/{id}/details",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
