@@ -52,3 +52,67 @@ Swagger’dan POST /api/report ile konum belirtilir (örn: "ankara").
 Arka planda servis çalışır, veriyi işler.
 GET /api/report/{id} ile sonucu görüntüleyebilirsin.
 
+
+
+
+--Örnek Endpointler--
+
+///Persons
+
+GET /api/Persons: Tüm kişileri getir
+--Örnek:
+GET /api/Persons
+
+
+POST /api/Persons: Yeni kişi ekle
+-- Örnek:
+{
+  "name": "Örnek",
+  "surname": "Örnek",
+  "company": "ABC A.Ş."
+}
+
+
+GET /api/Persons/{id}: ID'ye göre kişi getir
+
+DELETE /api/Persons/{id}: Kişiyi sil
+
+GET /api/Persons/{id}/details: Kişi ve iletişim detaylarını getir
+
+
+///ContactInfos
+
+POST /api/ContactInfos: İletişim bilgisi ekle
+--Örnek:
+{
+  "personId": "GUID",
+  "type": 0, // Phone = 0, Email = 1, Location = 2
+  "content": "05555555555"
+}
+
+
+GET /api/ContactInfos/person/{personId}: Kişiye ait iletişim bilgilerini getir
+
+DELETE /api/ContactInfos/{id}: İletişim bilgisini sil
+
+
+///Reports
+
+
+POST /api/Reports/create: Rapor isteği oluştur
+--Örnek:
+{
+  "location": "ankara"
+}
+
+
+GET /api/Reports/getreports: Tüm raporları getir
+
+GET /api/Reports/details/{id}: Rapor detayını getir
+
+
+///ReportData
+
+GET /api/report-data/reports/{location}: Belirli lokasyon için kişi/telefon sayısı getirir
+
+
